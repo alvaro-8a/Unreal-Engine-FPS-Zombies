@@ -1,4 +1,5 @@
 Binaries
+Build
 DerivedDataCache
 Intermediate
 Platforms
@@ -13,3 +14,4 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+*.psd
